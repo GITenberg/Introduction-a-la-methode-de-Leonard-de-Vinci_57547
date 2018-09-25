@@ -1,0 +1,24 @@
+_repo: Introduction-a-la-methode-de-Leonard-de-Vinci_57547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Valéry, Paul
+    gutenberg_agent_id: '49451'
+    url: http://www.gutenberg.org/2009/agents/49451
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Littérature
+- FR Philosophie, Religion et Morale
+gutenberg_issued: '2018-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57547'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Introduction à la méthode de Léonard de Vinci
+url: http://www.gutenberg.org/ebooks/57547
