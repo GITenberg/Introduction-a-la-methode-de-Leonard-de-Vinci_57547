@@ -1,11 +1,16 @@
 _repo: Introduction-a-la-methode-de-Leonard-de-Vinci_57547
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57547-h/images/cover.jpg
 creator:
   author:
     agent_name: Valéry, Paul
     gutenberg_agent_id: '49451'
     url: http://www.gutenberg.org/2009/agents/49451
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57547#Introduction-a-la-methode-de-Leonard-de-Vinci
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Littérature
